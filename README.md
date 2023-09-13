@@ -5,6 +5,10 @@
 ```bash
 mkdir 'foldername' && cd 'foldername'
 ```
+> Initialize  npm
+```bash
+npm init -y
+```
 > Install hardhat
 ```bash
 npm install --save-dev hardhat
